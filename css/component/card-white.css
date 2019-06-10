@@ -1,0 +1,28 @@
+.card-white {
+	background: rgb(220, 220, 220);
+	opacity: 0.99;
+	padding: 40px 120px;
+}
+.card-white h1 {
+	font-size: 25px;
+	font-family: Roboto;
+	color: rgb(100, 100, 100);
+	text-align: center;
+}
+
+.card-white h3 {
+	font-family: Geneva;
+	font-size: 18px;
+	color: rgb(100, 100, 100);
+	text-align: center;
+	margin-top: 50px;
+}
+
+.card-white p {
+	font-family: Geneva;
+	font-size: 15px; 
+	color: rgb(100, 100, 100);
+	padding: 0px 40px;
+	text-align: center;
+	margin-top: 30px;
+}

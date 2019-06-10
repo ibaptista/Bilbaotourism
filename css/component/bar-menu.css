@@ -1,0 +1,13 @@
+.bar-menu {
+	background-color: rgb(220, 220, 220);
+	padding: 15px;
+	text-align: center;
+}
+.bar-menu a {
+	padding: 15px 30px;
+	color: rgb(100, 100, 100);
+}
+.bar-menu a:hover {
+	background-color: rgb(130, 130, 130);
+	color: white;
+}

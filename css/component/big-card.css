@@ -1,0 +1,22 @@
+.big-card {
+	background-image: linear-gradient(-225deg, rgba(0, 0, 0, 0.2) 0%, rgba(0, 0, 0, 0.1) 50%), url(../../images/gaztelugatxe.jpg);
+	background-size: cover;
+	background-position: top;
+	padding: 15px 0px;
+	height: 600px;
+}
+
+.big-card h1 {
+	color: white;
+	font-size: 34px;
+	font-family: Geneva;
+	padding-top: 30px;
+	padding-left: 50px; 
+}
+
+.big-card h2 {
+	color: white;
+	font-size: 22px;
+	font-family: Geneva;
+	padding-left: 120px;
+}

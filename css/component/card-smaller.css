@@ -1,0 +1,29 @@
+.card-smaller {
+	flex: 1;
+	flex-basis: 100px;
+	padding: 10px;
+	margin: 15px 10px;
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.3);
+  	transition: 0.3s;  
+  	align-content: center;
+}
+
+.card-smaller:hover {
+	box-shadow: 0 10px 16px 0 rgba(0,0,0,0.4);
+}
+
+.card-smaller h3 {
+	font-size: 14px;
+	font-family: Geneva;
+	text-align: center;
+}
+
+.card-smaller img {
+	width: 100%;
+	align-content: center;
+}
+
+.card-smaller btn-grey {
+	margin-bottom: 20px;
+	align-content: right;
+}
